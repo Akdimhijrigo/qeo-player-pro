@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Open Film 1 HLS" group-title="Test Channels",Open Film 1 (HLS)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Open Film 2 HLS" group-title="Test Channels",Open Film 2 (HLS)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 group-title="Test Movies",Big Buck Bunny (Blender open movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 group-title="Test Movies",Sintel (Blender open movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:-1 group-title="Test Movies",Elephants Dream (Blender open movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 group-title="Test Movies",Tears of Steel (Blender open movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
